@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1510062448 source:c:\users\abhinav sarkar\desktop\eyrc-2017\task 1 feeder weeder\task 1a\mazesolve\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"src.c"
+
+1510063878 c:\users\abhinav sarkar\desktop\eyrc-2017\task 1 feeder weeder\task 1a\mazesolve\src.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510844517 source:e:\project\e-yntra\task 1\set-3\task 1\task 1a\mazesolve\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"src.c"
+
+1511579298 e:\project\e-yntra\task 1\set-3\task 1\task 1a\mazesolve\src.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511709489 source:f:\task 1 (final)\task 1a\mazesolve\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"src.c"
+
+1511710209 f:\task 1 (final)\task 1a\mazesolve\src.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1511709489 source:f:\eyantra\task 1 (final)\task 1a\mazesolve\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"src.c"
+
+1521368659 f:\eyantra\task 1 (final)\task 1a\mazesolve\src.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
